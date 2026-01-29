@@ -96,7 +96,7 @@ a:hover {
 
 
 main {
-  margin-top: 40px;
+  margin-top: 30px;
 }
 
 /* Mobile-friendly tweaks */
@@ -163,4 +163,8 @@ body.dark {
 body.dark .card {
   background: #4869a2 !important;
   color: rgb(255, 255, 255) !important;
+}
+
+h1.dark {
+  color: #ffffff !important;
 }
