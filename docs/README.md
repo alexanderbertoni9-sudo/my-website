@@ -10,7 +10,7 @@ This is my first website built using HTML, CSS, and JavaScript.
 - Deployed using GitHub Pages
 
 ## Live Site
-https://YOURUSERNAME.github.io/my-website/
+https://alexanderbertoni9-sudo.github.io/my-website/
 
 ## Tech Used
 - HTML
